@@ -3,21 +3,21 @@
 ## Aufgabe 1:
 ### Erstelle auf Github ein neues Git Repository “IN250_NachnameVorname_Docs”
 
-![alt text](Screenshot 2026-01-18 210038.png)
+![Repository erstellen](pictures/Screenshot 2026-01-18 210038.png)
 
 ## Aufgabe 2:
 ### Klone dein neu erstelltes Repository auf deinen Computer
 
-![alt text](Screenshot 2026-01-18 211649.png)
+![Clone Link](pictures/Screenshot 2026-01-18 211649.png)
 
-![alt text](Screenshot 2026-01-18 214728.png)
+![Befehle](pictures/Screenshot 2026-01-18 214728.png)
 
 ## Aufgabe 3:
 ### Kopiere dein Markdown Cheatsheet in den Ordner, in welchen du dein Git Repository geklont hast. Erstelle anschliessend einen Commit mit der Nachricht “Initial commit”
 
-![alt text](Screenshot 2026-01-18 215252.png)
+![Markdown Download as .md](pictures/Screenshot 2026-01-18 215252.png)
  
-![alt text](Screenshot 2026-01-18 222512.png)
+![Initial Commit](pictures/Screenshot 2026-01-18 222512.png)
 
 ## Aufgabe 4:
 ### Erstelle ein Gitignore File in deinem Repository mit Ausnahmen für folgende Dateitypen: 
@@ -25,7 +25,7 @@
 ### GeheimeBankInformationen.txt 
 ### Erstelle einen neuen Commit mit der Nachricht “Add gitignore”
 
-![alt text](Screenshot 2026-01-18 223121.png)
+![.gitignore](pictures/Screenshot 2026-01-18 223121.png)
  
 ##Aufgabe 5:
 
@@ -33,16 +33,16 @@
 ### Was beobachtest du? 
 ### Was passiert, wenn du die Änderungen im alten Ordner vorher gepushed hast?
 
- ![alt text](Screenshot 2026-01-18 230408.png)
- ![alt text](Screenshot 2026-01-18 230514.png)
- ![alt text](Screenshot 2026-01-18 230538.png)
- ![alt text](Screenshot 2026-01-18 230738.png)
+ ![Befehle](pictures/Screenshot 2026-01-18 230408.png)
+ ![neue Branch](pictures/Screenshot 2026-01-18 230514.png)
+ ![Branches](pictures/Screenshot 2026-01-18 230538.png)
+ ![VS Code](pictures/Screenshot 2026-01-18 230738.png)
 
 ## Aufgabe 6:
 ### Erkläre in deinen eigenen Worten, warum Git im Prozess der Softwareentwicklung genutzt werden sollte? 
 ### Erkläre ebenfalls, warum bei einem Feuer zuerst Git Commit – Git Push und dann erst die Flucht erfolgen sollte?
 
-![alt text]("C:\Users\zlata\Pictures\Screenshots\Git Commit Git Push dann flüchten.jpg")
+![Git Commit - Git Push - Exit Building](pictures/Git Commit Git Push dann flüchten.jpg)
 
 ##### Warum Git ind der Softwareentwicklung?
 Es ist wichtig damit die Arbeitsstände gesichert werden, dies ist im git einfach da man diese nachvollziehen kann da Commit nachriten verlagt werden welche man schreiben muss, somit schützt man den Code vor Verlust. 
