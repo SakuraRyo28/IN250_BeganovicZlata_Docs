@@ -3,7 +3,7 @@
 ## Aufgabe 1:
 ### Erstelle auf Github ein neues Git Repository “IN250_NachnameVorname_Docs”
 
-![Repository erstellen](pictures/Screenshot 2026-01-18 210038.png)
+![Repository erstellen](../pictures/Screenshot 2026-01-18 210038.png)
 
 ## Aufgabe 2:
 ### Klone dein neu erstelltes Repository auf deinen Computer
