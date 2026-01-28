@@ -1,6 +1,6 @@
-#Git Merging
+# Git Merging
 
-## How to MErge
+## How to Merge
 
 1. Create a Branch
 2. Create a File in the Branch
