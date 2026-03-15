@@ -13,14 +13,14 @@
   | / |-------------------------------------------------------------------------------| \ |
 ```
    | / |	                                                                             
-   | / |  - [Verzeichnisstruktur](docs/struktur.md)                                       
-   | / |    — *„Wo liegt welches Kleinod, und warum liegt es dort?“*                   
- 	 | / |                                                                            
-   | / |  - [Setup & Installation](docs/setup.md)                                       
-   | / |    — *„Wie erwecke ich das Projekt zum Leben, ohne einen Fluch auszulösen?“*  
-	  | / |                                                                           
-   | / |  - [User Guide / Navigation](docs/user-guide.md)                               
-   | / |    — *„Wie benutze ich’s, ohne in Tränen auszubrechen?“*                      
+   | / |    - [Verzeichnisstruktur](docs/struktur.md)                                       
+   | / |      — *„Wo liegt welches Kleinod, und warum liegt es dort?“*                   
+   | / |                                                                            
+   | / |    - [Setup & Installation](docs/setup.md)                                       
+   | / |      — *„Wie erwecke ich das Projekt zum Leben, ohne einen Fluch auszulösen?“*  
+   | / |                                                                           
+   | / |    - [User Guide / Navigation](docs/user-guide.md)                               
+   | / |      — *„Wie benutze ich’s, ohne in Tränen auszubrechen?“*                      
    | / |                                                                           
 ```
   | / |-------------------------------------------------------------------------------| \ |
