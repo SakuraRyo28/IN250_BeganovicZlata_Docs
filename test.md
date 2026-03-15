@@ -182,3 +182,32 @@ _________|  |__|    :|       Die Große Schriftrolle       |     |__|  |________
 
 
 Möge deine Navigation klar sein und deine Commits stets klein genug, um sie ohne Zauberei zu reviewen.
+
+
+
+ __^__                                                                               __^__
+( ___ )-----------------------------------------------------------------------------( ___ )
+ | / |               Schriftrolle III — Die Dokumente der Weisheit                   | \ |
+ | / |-------------------------------------------------------------------------------| \ |
+ | / |	                                                                             | \ |
+ | / |  Hier sind die Schriftrollen, die dich wappnen,                               | \ |
+ | / |	bevor du dich tiefer in die Gänge wagst:                                     | \ |
+ | / |	                                                                             | \ |
+ | / |-------------------------------------------------------------------------------| \ |
+ | / |	                                                                             | \ |
+ | / | - [Verzeichnisstruktur](docs/struktur.md)                                     | \ |    
+ | / |    — *„Wo liegt welches Kleinod, und warum liegt es dort?“*                   | \ |
+ | / |	                                                                             | \ |
+ | / | - [Setup & Installation](docs/setup.md)                                       | \ |
+ | / |    — *„Wie erwecke ich das Projekt zum Leben, ohne einen Fluch auszulösen?“*  | \ |
+ | / |	                                                                             | \ |
+ | / | - [User Guide / Navigation](docs/user-guide.md)                               | \ |
+ | / |	  — *„Wie benutze ich’s, ohne in Tränen auszubrechen?“*                      | \ |
+ | / |	                                                                             | \ |
+ | / |-------------------------------------------------------------------------------| \ |
+ | / |	                                                                             | \ |
+ | / |   Viel Reden ohne Struktur ist wie Navigation ohne Karte.                     | \ |
+ | / |      Darum: erst Startseite, dann Ruhm.                                       | \ |
+ |___|                                                                               |___|
+(_____)-----------------------------------------------------------------------------(_____)
+   ^                                                                                   ^
